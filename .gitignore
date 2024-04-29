@@ -75,3 +75,4 @@ DerivedDataCache/*
 
 # Ignore packages assets
 Content/PolygonPrototype/**
+Content/PolygonSciFi/**
